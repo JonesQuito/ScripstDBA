@@ -20,5 +20,8 @@ O arquivo é composto de sessões. A sessão [global] contém as configurações
 - Alterar o grupo proprietário do diretório
 	`chgrp users /home/publico`
 	
-- Alterar as permissões de escrita, leitura e execução
+- Alterar as [permissões de escrita, leitura e execução](https://github.com/JonesQuito/ScriptsDBA/blob/master/SO/tutoriais/security-linux/permissoes.md)
 	`chmod 775 /home/publico`
+	
+	
+	

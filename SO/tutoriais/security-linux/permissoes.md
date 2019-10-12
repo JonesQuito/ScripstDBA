@@ -1,0 +1,1 @@
+## Permissões de escrita, leitura e gravação
